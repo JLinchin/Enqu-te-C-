@@ -1,0 +1,78 @@
+E:\Copie disque dur Corine\Corine\Année 2023 - 2024 - SIO2\AP\AP Enquête\ProjetQCM\AppliQCM\bin\Debug\AppliQCM.exe.config
+E:\Copie disque dur Corine\Corine\Année 2023 - 2024 - SIO2\AP\AP Enquête\ProjetQCM\AppliQCM\bin\Debug\AppliQCM.exe
+E:\Copie disque dur Corine\Corine\Année 2023 - 2024 - SIO2\AP\AP Enquête\ProjetQCM\AppliQCM\bin\Debug\AppliQCM.pdb
+E:\Copie disque dur Corine\Corine\Année 2023 - 2024 - SIO2\AP\AP Enquête\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.csproj.AssemblyReference.cache
+E:\Copie disque dur Corine\Corine\Année 2023 - 2024 - SIO2\AP\AP Enquête\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.FrmAccueil.resources
+E:\Copie disque dur Corine\Corine\Année 2023 - 2024 - SIO2\AP\AP Enquête\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.Properties.Resources.resources
+E:\Copie disque dur Corine\Corine\Année 2023 - 2024 - SIO2\AP\AP Enquête\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.csproj.GenerateResource.cache
+E:\Copie disque dur Corine\Corine\Année 2023 - 2024 - SIO2\AP\AP Enquête\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.csproj.CoreCompileInputs.cache
+E:\Copie disque dur Corine\Corine\Année 2023 - 2024 - SIO2\AP\AP Enquête\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.exe
+E:\Copie disque dur Corine\Corine\Année 2023 - 2024 - SIO2\AP\AP Enquête\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.pdb
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\AppliQCM.exe.config
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\AppliQCM.exe
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\AppliQCM.pdb
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.csproj.AssemblyReference.cache
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.FrmAccueil.resources
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.Properties.Resources.resources
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.csproj.GenerateResource.cache
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.csproj.CoreCompileInputs.cache
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.exe
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.pdb
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.FrmQuestionnaire.resources
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\CoucheLogiqueMetier.dll
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\CoucheAccesDonnees.dll
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\MySqlConnector.dll
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Memory.dll
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Buffers.dll
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Numerics.Vectors.dll
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\CoucheLogiqueMetier.pdb
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\CoucheLogiqueMetier.dll.config
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\CoucheAccesDonnees.pdb
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\CoucheAccesDonnees.dll.config
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\MySqlConnector.xml
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Memory.xml
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Buffers.xml
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Numerics.Vectors.xml
+E:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.csproj.CopyComplete
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\AppliQCM.exe.config
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\AppliQCM.exe
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\AppliQCM.pdb
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\CoucheLogiqueMetier.dll
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\CoucheAccesDonnees.dll
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\MySqlConnector.dll
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Memory.dll
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Buffers.dll
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Numerics.Vectors.dll
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\CoucheLogiqueMetier.pdb
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\CoucheLogiqueMetier.dll.config
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\CoucheAccesDonnees.pdb
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\CoucheAccesDonnees.dll.config
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\MySqlConnector.xml
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Memory.xml
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Buffers.xml
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\bin\Debug\System.Numerics.Vectors.xml
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.csproj.AssemblyReference.cache
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.FrmAccueil.resources
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.FrmQuestionnaire.resources
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.Properties.Resources.resources
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.csproj.GenerateResource.cache
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.csproj.CoreCompileInputs.cache
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.csproj.CopyComplete
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.exe
+D:\Projet\Année 2\Enquête\AP Enquête C#\PPE Enquete C# - A distribuer\ProjetQCM\AppliQCM\obj\Debug\AppliQCM.pdb

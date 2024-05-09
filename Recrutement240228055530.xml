@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<questionnaire cle='240228055530' name='Recrutement' displayName='Test 1 pour recrutement salariés'>
+	<description>Test pour recrutement salariés</description>
+	<question type='combo' name='Diplôme'>
+		<text>Quel est votre plus haut diplôme ?</text>
+		<reponses>
+			<reponse default ='true'>Baccalauréat</reponse>
+			<reponse default ='false'>Bac +2 (BTS)</reponse>
+			<reponse default ='false'>Bac +3 (Licence/BUT)</reponse>
+			<reponse default ='false'>Bac +4 (Master 1)</reponse>
+			<reponse default ='false'>Bac +5 (Master 2)</reponse>
+		</reponses>
+	</question>
+	<question type='text' name='Qualité'>
+		<text>Quelle est votre principale qualité ?</text>
+		<defaultreponse>Curieux</defaultreponse>
+		<maxCharacters>75</maxCharacters>
+	</question>
+	<question type='liste' name='Intérêt'>
+		<text>Quels sont vos centres d'intérêt ?</text>
+		<reponses>
+			<reponse default ='true'>Sport</reponse>
+			<reponse default ='false'>Musique</reponse>
+			<reponse default ='false'>Cinéma</reponse>
+			<reponse default ='false'>Lecture</reponse>
+			<reponse default ='false'>Informatique</reponse>
+		</reponses>
+	</question>
+</questionnaire>

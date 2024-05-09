@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<questionnaire cle='220224052922' name='Voiture' displayName='Test pour choix voiture'>
+	<description>Choisir sa voiture</description>
+	<question type='text' name='Marque'>
+		<text>Quelle est la marque de votre véhicule ?</text>
+		<defaultreponse>Clio 4</defaultreponse>
+		<maxCharacters>75</maxCharacters>
+	</question>
+	<question type='combo' name='Carburant'>
+		<text>Choisir son carburant</text>
+		<reponses>
+			<reponse default ='true'>Essence</reponse>
+			<reponse default ='false'>Diésel</reponse>
+			<reponse default ='false'>Electricité</reponse>
+		</reponses>
+	</question>
+	<question type='text' name='Couleur'>
+		<text>Quelle est la couleur de votre véhicule ?</text>
+		<defaultreponse>Noire</defaultreponse>
+		<maxCharacters>75</maxCharacters>
+	</question>
+</questionnaire>

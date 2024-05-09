@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<questionnaire cle='220224052603' name='Cereales' displayName='Enquête consommation Céréales Chocolat'>
+	<description>Etudier les goûts en matière de céréales au chocolat</description>
+	<question type='combo' name='Offre promotionnelle'>
+		<text>A quelle offre promotionnelle êtes-vous le plus sensible ?</text>
+		<reponses>
+			<reponse default ='true'>Bon de réduction</reponse>
+			<reponse default ='false'>Cadeau à l'intérieur du paquet</reponse>
+			<reponse default ='false'>Satisfait ou remboursé</reponse>
+			<reponse default ='false'>1 produit offert pour 1 produit acheté</reponse>
+			<reponse default ='false'>25% produits supplémentaires</reponse>
+		</reponses>
+	</question>
+	<question type='text' name='Prix'>
+		<text>Quel prix proposeriez-vous pour ce produit ?</text>
+		<defaultreponse>5 euros</defaultreponse>
+		<maxCharacters>75</maxCharacters>
+	</question>
+	<question type='liste' name='Critères achats'>
+		<text>Quels sont vos critères d'achat ?</text>
+		<reponses>
+			<reponse default ='true'>Notoriété de la marque</reponse>
+			<reponse default ='false'>Prix</reponse>
+			<reponse default ='false'>Goût</reponse>
+			<reponse default ='false'>Santé</reponse>
+			<reponse default ='false'>Texture</reponse>
+		</reponses>
+	</question>
+</questionnaire>
